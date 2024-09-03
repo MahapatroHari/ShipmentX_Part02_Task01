@@ -1,5 +1,5 @@
 
-# Front-End Developer Coding Assessment Part-02 Task-01
+# Front-End Developer Coding Assessment Part-02 Task-04
 
 ## Introduction
 
@@ -26,8 +26,8 @@ Before running the project, ensure you have the following installed on your syst
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/MahapatroHari/ShipmentX_Part02_Task01.git
-   cd ShipmentX_Part02_Task01
+   git clone https://github.com/MahapatroHari/ShipmentX_Part02_Task04.git
+   cd ShipmentX_Part02_Task04
    ```
 
 2. **Install Dependencies**
